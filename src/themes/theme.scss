@@ -1,0 +1,129 @@
+
+/**
+ * Do not edit directly
+ * Generated on Tue, 16 Aug 2022 18:14:26 GMT
+ */
+
+$primitive-size-2: 8px !default;
+$primitive-size-1: 4px !default;
+$grey-950: #212121 !default;
+$grey-900: #323232 !default;
+$grey-800: #424242 !default;
+$grey-700: #616161 !default;
+$grey-600: #757575 !default;
+$grey-500: #9e9e9e !default;
+$grey-400: #bdbdbd !default;
+$grey-300: #e0e0e0 !default;
+$grey-200: #eeeeee !default;
+$grey-100: #f5f5f5 !default;
+$grey-50: #fcfcfc !default;
+$blue-950: #060818 !default;
+$blue-900: #0c1131 !default;
+$blue-800: #182162 !default;
+$blue-700: #253293 !default;
+$blue-600: #3142c4 !default;
+$blue-500: #3d53f5 !default;
+$blue-400: #6475f7 !default;
+$blue-300: #8b98f9 !default;
+$blue-200: #b1bafb !default;
+$blue-100: #d8ddfd !default;
+$blue-50: #eceefe !default;
+$red-950: #100105 !default;
+$red-900: #160207 !default;
+$red-800: #2d040d !default;
+$red-700: #59091a !default;
+$red-600: #9c0f2e !default;
+$red-500: #df1642 !default;
+$red-400: #e95c7b !default;
+$red-300: #f2a2b3 !default;
+$red-200: #f9d0d9 !default;
+$red-100: #fce8ec !default;
+$red-50: #FFF5F7 !default;
+$white: #ffffff !default;
+$black: #171717 !default;
+$spacing-3: 12px !default;
+$spacing-2: 8px !default;
+$button-md: 44 !default;
+$button-sm: 36px !default;
+$button-secondary: #eeeeee !default;
+$button-primary: #3d53f5 !default;
+$border-radius-lg: 4 !default;
+$border-radius-md: 4 !default;
+$border-radius-sm: 2 !default;
+$text-danger: #df1642 !default;
+$text-white: #ffffff !default;
+$text-black: #424242 !default;
+$token-set-order-1: mybest !default;
+$token-set-order-0: primitives !default;
+
+$css-tokens: (
+  'tokenSetOrder': (
+    '0': $token-set-order-0,
+    '1': $token-set-order-1
+  ),
+  'text': (
+    'black': $text-black,
+    'white': $text-white,
+    'danger': $text-danger
+  ),
+  'borderRadius': (
+    'sm': $border-radius-sm,
+    'md': $border-radius-md,
+    'lg': $border-radius-lg
+  ),
+  'button': (
+    'primary': $button-primary,
+    'secondary': $button-secondary,
+    'sm': $button-sm,
+    'md': $button-md
+  ),
+  'spacing': (
+    '2': $spacing-2,
+    '3': $spacing-3
+  ),
+  'black': $black,
+  'white': $white,
+  'red': (
+    '50': $red-50,
+    '100': $red-100,
+    '200': $red-200,
+    '300': $red-300,
+    '400': $red-400,
+    '500': $red-500,
+    '600': $red-600,
+    '700': $red-700,
+    '800': $red-800,
+    '900': $red-900,
+    '950': $red-950
+  ),
+  'blue': (
+    '50': $blue-50,
+    '100': $blue-100,
+    '200': $blue-200,
+    '300': $blue-300,
+    '400': $blue-400,
+    '500': $blue-500,
+    '600': $blue-600,
+    '700': $blue-700,
+    '800': $blue-800,
+    '900': $blue-900,
+    '950': $blue-950
+  ),
+  'grey': (
+    '50': $grey-50,
+    '100': $grey-100,
+    '200': $grey-200,
+    '300': $grey-300,
+    '400': $grey-400,
+    '500': $grey-500,
+    '600': $grey-600,
+    '700': $grey-700,
+    '800': $grey-800,
+    '900': $grey-900,
+    '950': $grey-950
+  ),
+  'primitiveSize': (
+    '1': $primitive-size-1,
+    '2': $primitive-size-2
+  )
+);
