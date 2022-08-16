@@ -1,0 +1,10 @@
+node_modules
+dist
+/tmp/*
+!.gitkeep
+*.log
+.eslintcache
+*.js.map
+*.js
+.envrc
+.sfdx
